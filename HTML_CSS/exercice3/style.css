@@ -1,0 +1,23 @@
+.salutation, h1 {
+    color: blue; /*Mettre la couleur d'un paragraphe*/
+}
+
+#idea{
+    color : red; 
+}
+
+#text_gen{
+    color: coral;
+}
+
+#generique{
+    color: green;
+}
+
+h2 + p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rechauffement em{
+    color: rgb(89, 119, 0); 
+}
