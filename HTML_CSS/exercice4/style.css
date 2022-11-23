@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'abel-regular';
+    src: url('fonts/abel-regular.ttf');
+}
+
+p{
+    font-size: 1.4em;
+}
+
+.lorem{
+    font-family: abel-regular; 
+}
+
+em{
+    font-style: normal;
+}
