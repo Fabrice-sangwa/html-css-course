@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'abel-regular';
+    src: url('fonts/abel-regular.ttf');
+}
+
+body{
+    font-family: abel-regular;
+    font-size: 1.2em;
+}
+
+a  :active{
+    background-color: red;
+
+}
+p:hover{
+    border: 5px rgb(158, 158, 179) solid;
+    padding: 20px;
+    background-color: rgb(225, 231, 227);
+    border-radius: 50px /80px;
+    box-shadow: 6px 6px 10px gray
+}
