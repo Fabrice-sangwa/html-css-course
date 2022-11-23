@@ -2,6 +2,13 @@
     font-family: 'abel-regular';
     src: url('../fonts/abel-regular.ttf');
 }
+h1{
+    background-color: rgb(239, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    
+}
+
 
 *{
     text-align: justify;
@@ -18,4 +25,29 @@
 .flottant{
     float: left;
     padding: 10px;
+}
+
+body{
+    background-image: url('../images/dave-goudreau-_gpsC7jrcls-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bordure{
+    text-align: justify;
+    padding : 10px;   
+    border: 3px blue double;
+}
+
+.bourdure_gauche{
+    border-left: 5px blue double;
+    padding-left: 12px;
+}
+.bordure_arrodie{
+    border: 5px blue solid;
+    padding: 20px;
+    background-color: rgb(225, 231, 227);
+    border-radius: 50px /80px;
+    text-shadow: 2px 2px 4px black;
+    box-shadow: 6px 6px 50px gray
+
 }
