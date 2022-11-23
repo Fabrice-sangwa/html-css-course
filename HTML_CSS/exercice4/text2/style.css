@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'abel-regular';
+    src: url('../fonts/abel-regular.ttf');
+}
+
+*{
+    text-align: justify;
+    font-size:1.1em;
+    font-family: 'abel-regular';
+    
+
+}
+
+.second{
+    text-decoration: overline;
+}
+
+.flottant{
+    float: left;
+    padding: 10px;
+}
