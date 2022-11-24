@@ -1,0 +1,28 @@
+h1{
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+   
+}
+
+p{
+    text-align: justify;
+    margin: auto;
+    margin-top: 5px;
+    
+   /*height: 20px; overflow: auto;
+    word-wrap: break-word;*/
+    
+}
+
+.first{
+    width: 48.5%;
+    border: 3px rosybrown solid;
+    padding: 10px;
+}
+
+.second{
+    width: 48.5%;
+    border: 3px rosybrown solid;
+    padding: 10px;
+}
